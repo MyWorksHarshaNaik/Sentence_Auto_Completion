@@ -1,5 +1,8 @@
 # Sentence_Auto_Completion
 
+# Dataset = https://www.kaggle.com/datasets/noorsaeed/holmes
+
+
 # Introduction
 Sentence auto-completion systems have gained significant attention in recent years due to their wide range of applications in natural language processing (NLP), including text generation, predictive typing, and grammar correction. The LSTM architecture, a type of recurrent neural network (RNN), is well-suited for sequence prediction tasks like auto-completion, thanks to its ability to capture long-range dependencies in sequential data.
 
